@@ -1,2 +1,1 @@
-# My-portfolio
-Mera ismein sabhi kam ka details hai
+Amazon ka clone hai
